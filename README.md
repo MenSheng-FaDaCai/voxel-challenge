@@ -5,7 +5,7 @@ The name of this picture is <i>Quiet Workstation</i>.
 I'm a novice in graphics. I'm very interested in the light effect of Taichi. The code of the tree is copied from <i>example6.py</i>.
 
 <p align="center">
-<img src="screenshot/main.py-2022-05-05-172405.jpg" width="75%"></img>
+<img src="main.py-2022-05-05-172405.jpg" width="75%"></img>
 </p>
 
 > Figure: result of `python3 example6.py`. Please replace the image above (`demo.jpg`) with yours, so that other people can immediately see your results :-)
